@@ -9,7 +9,7 @@ saySomething();
 
 //function expression
 var a= function(){
-    console.log("Function expression executed");
+    console.log("Function expression exeuted");
 }
 
 //calling the function expression
